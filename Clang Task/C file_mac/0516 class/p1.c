@@ -1,0 +1,4 @@
+
+
+int global = 1;
+
